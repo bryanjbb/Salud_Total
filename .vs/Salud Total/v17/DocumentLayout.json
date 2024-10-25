@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\bryan\\source\\repos\\Salud Total\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{142293D1-3DAF-4A92-8506-031C6E66BC78}|Salud Total\\Salud_Total.csproj|c:\\users\\bryan\\source\\repos\\salud total\\salud total\\salud_total.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{142293D1-3DAF-4A92-8506-031C6E66BC78}|Salud Total\\Salud_Total.csproj|solutionrelative:salud total\\salud_total.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Salud Total\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{142293D1-3DAF-4A92-8506-031C6E66BC78}|Salud Total\\Salud_Total.csproj|c:\\users\\bryan\\source\\repos\\salud total\\salud total\\services\\presentacionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142293D1-3DAF-4A92-8506-031C6E66BC78}|Salud Total\\Salud_Total.csproj|solutionrelative:salud total\\services\\presentacionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Salud Total\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{142293D1-3DAF-4A92-8506-031C6E66BC78}|Salud Total\\Salud_Total.csproj|c:\\users\\bryan\\source\\repos\\salud total\\salud total\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142293D1-3DAF-4A92-8506-031C6E66BC78}|Salud Total\\Salud_Total.csproj|solutionrelative:salud total\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Salud Total\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{142293D1-3DAF-4A92-8506-031C6E66BC78}|Salud Total\\Salud_Total.csproj|c:\\users\\bryan\\source\\repos\\salud total\\salud total\\services\\laboratorioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142293D1-3DAF-4A92-8506-031C6E66BC78}|Salud Total\\Salud_Total.csproj|solutionrelative:salud total\\services\\laboratorioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\Salud_Total.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Salud Total\\Salud_Total.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{142293D1-3DAF-4A92-8506-031C6E66BC78}|Salud Total\\Salud_Total.csproj|c:\\users\\bryan\\source\\repos\\salud total\\salud total\\models\\laboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142293D1-3DAF-4A92-8506-031C6E66BC78}|Salud Total\\Salud_Total.csproj|solutionrelative:salud total\\models\\laboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\Services\\PresentacionServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Salud Total\\Services\\PresentacionServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{142293D1-3DAF-4A92-8506-031C6E66BC78}|Salud Total\\Salud_Total.csproj|c:\\users\\bryan\\source\\repos\\salud total\\salud total\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142293D1-3DAF-4A92-8506-031C6E66BC78}|Salud Total\\Salud_Total.csproj|solutionrelative:salud total\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\Models\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Salud Total\\Models\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{142293D1-3DAF-4A92-8506-031C6E66BC78}|Salud Total\\Salud_Total.csproj|c:\\users\\bryan\\source\\repos\\salud total\\salud total\\controllers\\presentacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142293D1-3DAF-4A92-8506-031C6E66BC78}|Salud Total\\Salud_Total.csproj|solutionrelative:salud total\\controllers\\presentacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\Controllers\\PresentacionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Salud Total\\Controllers\\PresentacionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\Services\\LaboratorioServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Salud Total\\Services\\LaboratorioServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\Models\\Laboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Salud Total\\Models\\Laboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +46,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\appsettings.json",
+              "RelativeDocumentMoniker": "Salud Total\\appsettings.json",
+              "ToolTip": "C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\appsettings.json",
+              "RelativeToolTip": "Salud Total\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T10:03:49.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\Program.cs",
+              "RelativeDocumentMoniker": "Salud Total\\Program.cs",
+              "ToolTip": "C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\Program.cs",
+              "RelativeToolTip": "Salud Total\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:02:40.445Z"
             },
             {
               "$type": "Bookmark",
@@ -62,20 +90,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Salud_Total",
+              "DocumentIndex": 3,
+              "Title": "Salud_Total.csproj",
               "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\Salud_Total.csproj",
               "RelativeDocumentMoniker": "Salud Total\\Salud_Total.csproj",
               "ToolTip": "C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\Salud_Total.csproj",
               "RelativeToolTip": "Salud Total\\Salud_Total.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-25T07:31:23.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T07:31:23.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PresentacionServices.cs",
               "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\Services\\PresentacionServices.cs",
               "RelativeDocumentMoniker": "Salud Total\\Services\\PresentacionServices.cs",
@@ -83,20 +110,20 @@
               "RelativeToolTip": "Salud Total\\Services\\PresentacionServices.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAkwEoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T07:17:27.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T07:17:27.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Salud Total\\WeatherForecast.cs",
               "ToolTip": "C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\WeatherForecast.cs",
               "RelativeToolTip": "Salud Total\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T07:16:36.699Z"
+              "WhenOpened": "2024-10-18T07:16:36.699Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -124,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "LaboratorioServices.cs",
               "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\Services\\LaboratorioServices.cs",
               "RelativeDocumentMoniker": "Salud Total\\Services\\LaboratorioServices.cs",
@@ -136,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Laboratorio.cs",
               "DocumentMoniker": "C:\\Users\\bryan\\source\\repos\\Salud Total\\Salud Total\\Models\\Laboratorio.cs",
               "RelativeDocumentMoniker": "Salud Total\\Models\\Laboratorio.cs",
@@ -145,6 +172,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T05:58:13.942Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
