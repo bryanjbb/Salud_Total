@@ -8,8 +8,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<ProductoServices>();
-builder.Services.AddScoped<CompraServices>();
 builder.Services.AddScoped<PresentacionServices>();
+builder.Services.AddScoped<CompraServices>();
+builder.Services.AddScoped<Detalle_VentaServices>();
+builder.Services.AddScoped<Detalle_CompraServices>();
+builder.Services.AddScoped<VentaServices>();
 builder.Services.AddScoped<LaboratorioServices>();
 var app = builder.Build();
 // Configure the HTTP request pipeline.

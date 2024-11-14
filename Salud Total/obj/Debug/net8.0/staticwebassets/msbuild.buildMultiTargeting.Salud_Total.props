@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Salud_Total.props" />
+</Project>

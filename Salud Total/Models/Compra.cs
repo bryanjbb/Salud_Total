@@ -12,11 +12,6 @@ namespace Salud_Total.Models
         [Required]
         public DateTime Fecha { get; set; }
 
-        [Required]
-        public int Total { get; set; }
-
-        [Required]
-        public int ID_CP { get; set; }
     }
 }
     
